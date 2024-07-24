@@ -1,0 +1,42 @@
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\Video\bin\x64\Debug\Video.exe.config
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\Video\bin\x64\Debug\Video.exe
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\Video\bin\x64\Debug\Video.pdb
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\Video\bin\x64\Debug\Interop.AXISMEDIACONTROLLib.dll
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\Video\bin\x64\Debug\AxInterop.AXISMEDIACONTROLLib.dll
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\Video\obj\x64\Debug\Video.csproj.AssemblyReference.cache
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\Video\obj\x64\Debug\Interop.AXISMEDIACONTROLLib.dll
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\Video\obj\x64\Debug\AxInterop.AXISMEDIACONTROLLib.dll
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\Video\obj\x64\Debug\Video.csproj.ResolveComReference.cache
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\Video\obj\x64\Debug\Video.VideoForm.resources
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\Video\obj\x64\Debug\Video.csproj.GenerateResource.cache
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\Video\obj\x64\Debug\Video.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\Video\obj\x64\Debug\Video.exe
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\Video\obj\x64\Debug\Video.pdb
+C:\Users\developer.DESKTOP-CTCQ5IF\Desktop\Axis\Visual C#\Video\bin\x64\Debug\Video.exe.config
+C:\Users\developer.DESKTOP-CTCQ5IF\Desktop\Axis\Visual C#\Video\bin\x64\Debug\Video.exe
+C:\Users\developer.DESKTOP-CTCQ5IF\Desktop\Axis\Visual C#\Video\bin\x64\Debug\Video.pdb
+C:\Users\developer.DESKTOP-CTCQ5IF\Desktop\Axis\Visual C#\Video\bin\x64\Debug\Interop.AXISMEDIACONTROLLib.dll
+C:\Users\developer.DESKTOP-CTCQ5IF\Desktop\Axis\Visual C#\Video\bin\x64\Debug\AxInterop.AXISMEDIACONTROLLib.dll
+C:\Users\developer.DESKTOP-CTCQ5IF\Desktop\Axis\Visual C#\Video\obj\x64\Debug\Video.csproj.AssemblyReference.cache
+C:\Users\developer.DESKTOP-CTCQ5IF\Desktop\Axis\Visual C#\Video\obj\x64\Debug\Interop.AXISMEDIACONTROLLib.dll
+C:\Users\developer.DESKTOP-CTCQ5IF\Desktop\Axis\Visual C#\Video\obj\x64\Debug\AxInterop.AXISMEDIACONTROLLib.dll
+C:\Users\developer.DESKTOP-CTCQ5IF\Desktop\Axis\Visual C#\Video\obj\x64\Debug\Video.csproj.ResolveComReference.cache
+C:\Users\developer.DESKTOP-CTCQ5IF\Desktop\Axis\Visual C#\Video\obj\x64\Debug\Video.VideoForm.resources
+C:\Users\developer.DESKTOP-CTCQ5IF\Desktop\Axis\Visual C#\Video\obj\x64\Debug\Video.csproj.GenerateResource.cache
+C:\Users\developer.DESKTOP-CTCQ5IF\Desktop\Axis\Visual C#\Video\obj\x64\Debug\Video.csproj.CoreCompileInputs.cache
+C:\Users\developer.DESKTOP-CTCQ5IF\Desktop\Axis\Visual C#\Video\obj\x64\Debug\Video.exe
+C:\Users\developer.DESKTOP-CTCQ5IF\Desktop\Axis\Visual C#\Video\obj\x64\Debug\Video.pdb
+C:\Users\user\Desktop\업무폴더\Axis\Visual C#\Video\bin\x64\Debug\Video.exe.config
+C:\Users\user\Desktop\업무폴더\Axis\Visual C#\Video\bin\x64\Debug\Video.exe
+C:\Users\user\Desktop\업무폴더\Axis\Visual C#\Video\bin\x64\Debug\Video.pdb
+C:\Users\user\Desktop\업무폴더\Axis\Visual C#\Video\bin\x64\Debug\Interop.AXISMEDIACONTROLLib.dll
+C:\Users\user\Desktop\업무폴더\Axis\Visual C#\Video\bin\x64\Debug\AxInterop.AXISMEDIACONTROLLib.dll
+C:\Users\user\Desktop\업무폴더\Axis\Visual C#\Video\obj\x64\Debug\Video.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\업무폴더\Axis\Visual C#\Video\obj\x64\Debug\Interop.AXISMEDIACONTROLLib.dll
+C:\Users\user\Desktop\업무폴더\Axis\Visual C#\Video\obj\x64\Debug\AxInterop.AXISMEDIACONTROLLib.dll
+C:\Users\user\Desktop\업무폴더\Axis\Visual C#\Video\obj\x64\Debug\Video.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\업무폴더\Axis\Visual C#\Video\obj\x64\Debug\Video.VideoForm.resources
+C:\Users\user\Desktop\업무폴더\Axis\Visual C#\Video\obj\x64\Debug\Video.csproj.GenerateResource.cache
+C:\Users\user\Desktop\업무폴더\Axis\Visual C#\Video\obj\x64\Debug\Video.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\업무폴더\Axis\Visual C#\Video\obj\x64\Debug\Video.exe
+C:\Users\user\Desktop\업무폴더\Axis\Visual C#\Video\obj\x64\Debug\Video.pdb

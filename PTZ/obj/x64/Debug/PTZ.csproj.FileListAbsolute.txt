@@ -1,0 +1,14 @@
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\PTZ\bin\x64\Debug\PTZ.exe.config
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\PTZ\bin\x64\Debug\PTZ.exe
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\PTZ\bin\x64\Debug\PTZ.pdb
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\PTZ\bin\x64\Debug\Interop.AXISMEDIACONTROLLib.dll
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\PTZ\bin\x64\Debug\AxInterop.AXISMEDIACONTROLLib.dll
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\PTZ\obj\x64\Debug\PTZ.csproj.AssemblyReference.cache
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\PTZ\obj\x64\Debug\Interop.AXISMEDIACONTROLLib.dll
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\PTZ\obj\x64\Debug\AxInterop.AXISMEDIACONTROLLib.dll
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\PTZ\obj\x64\Debug\PTZ.csproj.ResolveComReference.cache
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\PTZ\obj\x64\Debug\PTZ.PTZ.resources
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\PTZ\obj\x64\Debug\PTZ.csproj.GenerateResource.cache
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\PTZ\obj\x64\Debug\PTZ.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\PTZ\obj\x64\Debug\PTZ.exe
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\PTZ\obj\x64\Debug\PTZ.pdb

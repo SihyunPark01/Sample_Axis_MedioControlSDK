@@ -1,0 +1,14 @@
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\Audio\bin\x64\Debug\AudioSample.exe.config
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\Audio\bin\x64\Debug\AudioSample.exe
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\Audio\bin\x64\Debug\AudioSample.pdb
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\Audio\bin\x64\Debug\Interop.AXISMEDIACONTROLLib.dll
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\Audio\bin\x64\Debug\AxInterop.AXISMEDIACONTROLLib.dll
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\Audio\obj\x64\Debug\Audio.csproj.AssemblyReference.cache
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\Audio\obj\x64\Debug\Interop.AXISMEDIACONTROLLib.dll
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\Audio\obj\x64\Debug\AxInterop.AXISMEDIACONTROLLib.dll
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\Audio\obj\x64\Debug\Audio.csproj.ResolveComReference.cache
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\Audio\obj\x64\Debug\Audio.Audio.resources
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\Audio\obj\x64\Debug\Audio.csproj.GenerateResource.cache
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\Audio\obj\x64\Debug\Audio.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\Audio\obj\x64\Debug\AudioSample.exe
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\Audio\obj\x64\Debug\AudioSample.pdb

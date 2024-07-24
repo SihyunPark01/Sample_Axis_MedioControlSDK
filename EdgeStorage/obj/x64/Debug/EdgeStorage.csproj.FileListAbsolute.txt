@@ -1,0 +1,15 @@
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\EdgeStorage\bin\x64\Debug\EdgeStorage.exe.config
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\EdgeStorage\bin\x64\Debug\EdgeStorage.exe
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\EdgeStorage\bin\x64\Debug\EdgeStorage.pdb
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\EdgeStorage\bin\x64\Debug\Interop.AXISMEDIACONTROLLib.dll
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\EdgeStorage\bin\x64\Debug\AxInterop.AXISMEDIACONTROLLib.dll
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\EdgeStorage\obj\x64\Debug\EdgeStorage.csproj.AssemblyReference.cache
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\EdgeStorage\obj\x64\Debug\Interop.AXISMEDIACONTROLLib.dll
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\EdgeStorage\obj\x64\Debug\AxInterop.AXISMEDIACONTROLLib.dll
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\EdgeStorage\obj\x64\Debug\EdgeStorage.csproj.ResolveComReference.cache
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\EdgeStorage\obj\x64\Debug\EdgeStorage.PlaybackWindow.resources
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\EdgeStorage\obj\x64\Debug\EdgeStorage.RecordingListForm.resources
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\EdgeStorage\obj\x64\Debug\EdgeStorage.csproj.GenerateResource.cache
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\EdgeStorage\obj\x64\Debug\EdgeStorage.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\EdgeStorage\obj\x64\Debug\EdgeStorage.exe
+C:\Program Files (x86)\AXIS Communications\AXIS Media Control SDK\samples\Visual C#\EdgeStorage\obj\x64\Debug\EdgeStorage.pdb
